@@ -10,12 +10,12 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "^14"
+    "node": "^18.x"
   },
   "dependencies": {
     "chrome-aws-lambda": "^6",
     "express": "^4.18.1",
-    "puppeteer-core": "^6"
+    "puppeteer-core": "^19.11.1"
   },
   "devDependencies": {
     "puppeteer": "^16.2.0"
